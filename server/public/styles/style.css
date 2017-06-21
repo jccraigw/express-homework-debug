@@ -8,6 +8,6 @@ body {
 }
 #login form {
   width: 100%;
-  background-color: red;
+  background-color: rgba(1, 200, 100, 0.5);
   color: rgba(1, 200, 100, 0.5);
 }
